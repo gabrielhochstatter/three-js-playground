@@ -1,2 +1,3 @@
-# three-js-playground
-Learning three.js
+# Learning three.js
+
+Right now just a rotating cube.
